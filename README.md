@@ -7,7 +7,7 @@
 - Python
 - Java
 - SQL
-- GIT And Github
+- Git And Github
 - HTML
 - CSS
 #### I am Currently Learning Web Development And Data Science 
