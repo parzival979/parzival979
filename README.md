@@ -9,6 +9,7 @@
 - SQL
 - GIT And Github
 - HTML
+- CSS
 #### I am Currently Learning Web Development And Data Science 
 #### You Can Reach Me At bansy7777@gmail.com
 #### About Me
