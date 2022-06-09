@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### This is Sravanth Chowdary Potluri 😀
-#### I Am Currently Studying 📚 Computer Science Engineering 🖥 At Indian Institute Of Information Technology Design And Manufacturing - Kancheepuram 🏫
+#### I Am Currently Studying 📚 Computer Science Engineering 🖥 [IIIT-DM Kancheepuram](https://www.iiitdm.ac.in/) 🏫
 #### My Technical Competencies Include 🌎
 - C
 - C++
