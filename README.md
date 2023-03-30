@@ -14,7 +14,6 @@
 - JavaScript
 #### I am Currently Learning Web Development And Data Science 
 #### You Can Reach Me At sravanth.chowdary.potluri@gmail.com
-#### My Personal Website is https://parzival979.github.io/
 #### About Me
 Let's cut to the chase. I am a cool guy who believes that anything/any skill in the whole wide world could be learnt, given time ⏳ and resources 📕. I also like to solve and analyze interesting problems that make me think 🤔, but it's really frustrating when you think too much that you don't want to think anymore . I really like the quote "Don't Memorize things You Can Lookup" by Albert Einstein (did he really say that ?, IDK) . I play tennis 🎾 quite well, I watch lots of Web-Series 👨🏻‍💻, like listening to Popular Music 🎶 and Reading Books 📖 And absolutely love football ⚽️. I really like and can do a lot of things decently well that's why i like to think of myself as "Jack of all trades, King of Some" 
 
