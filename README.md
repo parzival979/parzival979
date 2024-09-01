@@ -1,8 +1,8 @@
-### Hi there 👋
-### This is Sravanth Chowdary Potluri 😀
-#### I Am Currently Studying 📚 Computer Science Engineering 🖥 [IIIT-DM Kancheepuram](https://www.iiitdm.ac.in/) 🏫
+### Hi there
+### This is Sravanth Chowdary Potluri
+#### I am an MCS Student at the University of Virginia
 #### My Technical Competencies And Interests Include 🌎
-◦Data Science & Machine Learning
+◦Machine Learning and Artificial Intelligence
 ◦Software Development And Algorithms
 
 #### You Can Reach Me At sravanth.chowdary.potluri@gmail.com
