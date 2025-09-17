@@ -3,7 +3,7 @@
 #### I am an MCS Student at the University of Virginia
 #### My Technical Competencies And Interests Include 🌎
 ◦Machine Learning and Artificial Intelligence
-◦Software And Algorithm Development
+◦Distributed Systems, Software And Algorithm Development
 
 #### You Can Reach Me At sravanth.chowdary.potluri@gmail.com
 
