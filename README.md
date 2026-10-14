@@ -1,25 +1,9 @@
-### Hi there
-### This is Sravanth Potluri
-#### I am an MCS Student at the University of Virginia
-#### My Technical Competencies And Interests Include 🌎
-◦Machine Learning and Artificial Intelligence
-◦Distributed Systems, Software And Algorithm Development
+### Hi, I'm Sravanth Potluri 👋
 
-#### You Can Reach Me At sravanth.chowdary.potluri@gmail.com
+I build intelligent systems.
 
-<!--
-**parzival979/parzival979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Development Engineer at AWS, on the Open Data Analytics Engines team, which provides the engines behind Amazon EMR, AWS Glue and Amazon Athena
+- MCS, University of Virginia (2025)
+- Always happy to talk about Machine Learning, LLMs and Distributed Systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+[Portfolio](https://parzival979.github.io) · [LinkedIn](https://www.linkedin.com/in/sravanth-chowdary-potluri) · [Email](mailto:sravanth.chowdary.potluri@gmail.com)
