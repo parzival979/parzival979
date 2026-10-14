@@ -1,5 +1,5 @@
 ### Hi there
-### This is Sravanth Chowdary Potluri
+### This is Sravanth Potluri
 #### I am an MCS Student at the University of Virginia
 #### My Technical Competencies And Interests Include 🌎
 ◦Machine Learning and Artificial Intelligence
